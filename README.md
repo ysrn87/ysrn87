@@ -1,4 +1,4 @@
-# Hi there, I'm Yusran! 👋
+# Hi there,
 
 <div align="center">
   
